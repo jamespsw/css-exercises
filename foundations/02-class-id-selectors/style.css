@@ -1,0 +1,19 @@
+.pinkbg-verdana {
+    background-color: rgb(214, 148, 148);
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+.twentyfourpx {
+    font-size: 24px;
+}
+
+#bluetxt-thirtysixpx {
+    color: hsl(236, 91%, 48%);
+    font-size: 36px;
+}
+
+#greenbg-twentyfourpx-bold {
+    background-color: rgb(109, 240, 120);
+    font-size: 24px;
+    font-weight: bold;
+}
